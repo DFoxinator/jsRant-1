@@ -1,3 +1,3 @@
 # jsrant
 
-I feel ashamed of the quality of this project but by popular request I have made its code public.
+This project is up for adoption. Feel free to contact me if you are interested in further developing it.
